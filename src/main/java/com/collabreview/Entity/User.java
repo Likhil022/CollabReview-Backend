@@ -19,4 +19,5 @@ public class User {
     private String username;
     private String avatarUrl;
     private String accessToken;
+    private String email;
 }
